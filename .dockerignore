@@ -1,0 +1,9 @@
+# .dockerignore — đặt file này vào từng service folder
+node_modules
+npm-debug.log
+.env.*
+dist
+.git
+.gitignore
+README.md
+*.md
